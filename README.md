@@ -16,7 +16,7 @@ Para solucionar isso, foi desenvolvido um código em Python para realizar a inge
 
 ## 🚀 Pipeline de Dados (ETL)
 
-O script `etl_enem.py` realiza as seguintes etapas:
+O script `tratamento_microdados.ipynb` realiza as seguintes etapas:
 
 1.  **Ingestão:** Leitura dos arquivos CSV brutos (separados por `;` e encoding `latin1`).
 2.  **Amostragem Estratificada:** Aplicação de uma técnica de amostragem (`sample`) coletando 5% dos dados de cada ano.
