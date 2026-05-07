@@ -27,7 +27,7 @@ O principal desafio técnico foi o volume: a série histórica completa soma mai
 
 ### Inscritos & Aderência
 
-![Dashboard Inscritos e Aderência](./prints/dashboard_aderencia.png)
+![Dashboard Inscritos e Aderência](./Prints/dashboard_aderencia.png)
 
 ---
 
