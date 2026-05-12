@@ -1,6 +1,6 @@
 # 📊 Impacto da Pandemia no ENEM (2018–2023)
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.13%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-ETL-150458)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
 ![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
